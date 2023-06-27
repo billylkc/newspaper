@@ -1,5 +1,11 @@
+#+STARTUP: showeverything
+
 * 2023 June
 ** 2023-06-27
+*** Ref
+- https://invest.hket.com/markets
+- https://www1.hket.com/finance/finance/holding/day.do
+
 *** Real estate
  - Second handhouse transaction *-48.5%* in square feet
  - guangzhou dropped most
@@ -15,13 +21,19 @@
 **** China
 - GDP estitmate 6.1% -> 5.5% -> 5.2%
 
-
+*** HK
+**** Commercial rental
+- For 500k+, 2019 whole year (40), this year Jun (38)
 
 
 *** AI
 - Robot to work in Little Storage room (時昌迷你倉), restaruant
 
 *** Stock
+**** 1972 (Swire Property)
+- 19.04 (+2.15%)
+- Finished M&A Industrial building in QuarryBay
+
 **** 1428 (Bright Smart)
 - 1.71 (-1.16%)
 - Up dividends, by 4-fold, to 0.5
